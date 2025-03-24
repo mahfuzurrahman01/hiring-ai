@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "logo": "Hiring AI"
+  },
+  "home": {
+    "title": "Hello World",
+    "subtitle": "This is a simple Next.js app",
+    "welcomeMessage": "Welcome to Hiring AI platform"
+  }
+}
