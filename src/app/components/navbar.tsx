@@ -18,7 +18,7 @@ const Navbar = () => {
   const { language, toggleLanguage, t, dir } = useLanguage();
 
   return (
-    <header className="border-b sticky top-0 z-50 w-full bg-background/95 backdrop-blur">
+    <header className="border-b z-50 w-full bg-background/95 backdrop-blur fixed top-0 left-0 right-0">
       <div className="container mx-auto flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <Link href="/" className="font-bold text-xl">

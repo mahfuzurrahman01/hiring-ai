@@ -6,5 +6,12 @@
     "title": "مرحبا بالعالم",
     "subtitle": "هذا تطبيق Next.js بسيط",
     "welcomeMessage": "مرحبًا بك في منصة توظيف الذكاء الاصطناعي"
+  },
+  "voiceInput": {
+    "pressToSpeak": "اضغط للتكلم",
+    "placeholder": "ابدأ التكلم...",
+    "listening": "جاري الاستماع...",
+    "startRecording": "بدء التسجيل",
+    "stopRecording": "إيقاف التسجيل"
   }
 }
